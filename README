@@ -1,0 +1,12 @@
+This library handles communication between a computer aand microcontroller.
+Microcontroller type are PIC, Arduino ... (through FTDI)
+
+To build the project do:
+
+mkdir build
+
+cd build
+
+cmake ..
+
+make
